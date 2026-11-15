@@ -5,6 +5,8 @@
 Ingeniero en Tecnologías de la Información (Ecuador) y estudiante del Máster en Inteligencia Artificial (VIU). Fui **programador principal y diseñador técnico** de **[Abyzou Rituals: The Manson Case](https://store.steampowered.com/app/5295730/Abyzou_Rituals_The_Manson_Case/)**, un juego de terror psicológico en primera persona publicado en Steam y Epic Games Store.
 
 ## 🎮 Lo que construí en Abyzou Rituals
+👉 **[Ver el portafolio técnico con GIFs y capturas](https://github.com/Tonypbz/Abyzou-Rituals-Showcase)**
+
 - **Gameplay en primera persona:** locomoción, estamina/fatiga, cámara dinámica, inspección de objetos y puzles contextuales.
 - **IA enemiga:** Behavior Trees, Blackboards y AIPerception (vista y oído), patrullaje en NavMesh y persecución.
 - **UI/HUD con UMG:** menú principal, pausa, ajustes gráficos y de audio, inventario en cuadrícula.
