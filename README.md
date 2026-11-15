@@ -15,6 +15,7 @@ Ingeniero en Tecnologías de la Información (Ecuador) y estudiante del Máster 
 
 ## 🔨 En desarrollo
 Un **juego incremental de herrería** en UE5 (100 % Blueprints): estaciones de forja con minijuegos propios, recetas por tabla de datos y ciclo de día y noche.
+👉 **[Ver el devlog con GIFs y arquitectura](https://github.com/Tonypbz/Herreria-Incremental-UE5)**
 
 ## 🛠️ Herramientas
 `Unreal Engine 5` `Blueprints` `C++` `Blender` `Python` `C#` `Unity` `Git`
